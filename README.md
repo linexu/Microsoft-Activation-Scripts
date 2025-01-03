@@ -105,4 +105,33 @@ Release date: 20-Dec-2024
 
 ---
 
+**********************************************************************
+[1] HWID       # 数字许可证永久激活Windows，需要联网
+[2] Ohook      # 通过修改一个激活dll,实现离线永久激活Office
+[3] KMS38      # KMS方式离线激活Windows/Server 漏洞激活到2038年
+[4] Online KMS # KMS方式激活Windows/Server/Office 一次180天，到期自动续，需要联网
+
+界面翻译：
+     Activation Methods:
+
+ [1] HWID        |  Windows           |   Permanent 永久
+ [2] Ohook       |  Office            |   Permanent 永久
+ [3] KMS38       |  Windows           |   Year 2038 到2038年
+ [4] Online KMS  |  Windows / Office  |    180 Days 180天
+ __________________________________________________
+
+ [5] Check Activation Status 检查激活状态
+ [6] Change Windows Edition 改Windows版本
+ [7] Change Office Edition 改Office版本
+ __________________________________________________
+
+ [8] Troubleshoot 疑难排解
+ [9] Extras 附加选项
+ [H] Help 帮助
+ [0] Exit 退出
+ ______________________________________________________
+
+用键盘输入选择项，方括号中为可选项 [1,2,3,4,5,6,7,8,9,H,0] :
+**********************************************************************
+
 <p align="center">Made with Love ❤️</p>
