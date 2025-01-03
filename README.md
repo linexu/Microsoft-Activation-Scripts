@@ -112,7 +112,7 @@ Release date: 20-Dec-2024
 [4] Online KMS # KMS方式激活Windows/Server/Office 一次180天，到期自动续，需要联网
 
 界面翻译：
-     Activation Methods:
+Activation Methods:
 
  [1] HWID        |  Windows           |   Permanent 永久
  [2] Ohook       |  Office            |   Permanent 永久
@@ -130,7 +130,7 @@ Release date: 20-Dec-2024
  [H] Help 帮助
  [0] Exit 退出
  ______________________________________________________
-
+ 
 用键盘输入选择项，方括号中为可选项 [1,2,3,4,5,6,7,8,9,H,0] :
 **********************************************************************
 
